@@ -19,4 +19,4 @@ const json = {
 
 const output = makeOutput(json);
 
-writeFileSync("./outputTheme.js", output);
+writeFileSync("./output-theme.js", output);
